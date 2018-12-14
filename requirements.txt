@@ -1,5 +1,7 @@
-scrapy
-boto
-extruct
-w3lib
-jinja2
+Jinja2==2.10
+w3lib==1.19.0
+setuptools==28.8.0
+boto==2.49.0
+extruct==0.7.1
+Scrapy==1.5.1
+hubstorage==0.23.6
